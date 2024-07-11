@@ -1,6 +1,6 @@
 # Welcome to My GitHub Page!
 
-Hello, I'm Metin, a Data Scientist with a solid foundation in engineering and a keen interest in extracting meaningful insights from data. I am currently pursuing my Master's in Data Science at the University of Verona, Italy. My journey in the world of data is underpinned by a robust background in Mechanical Engineering from Cukurova University, where I also delved into Robotics.
+Hello, I'm Metin, a Data Scientist with a solid foundation in engineering and a keen interest in extracting insights from data. I am currently pursuing my Master's in Data Science at the University of Verona, Italy. My journey in the world of data is underpinned by an industrial background in Mechanical Engineering and Robotics.
 
 ## My Professional Landscape
 
